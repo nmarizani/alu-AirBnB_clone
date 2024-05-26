@@ -1,0 +1,1 @@
+This is the web static part of the AirBnB clone project we started as a group project
